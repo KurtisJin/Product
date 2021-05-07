@@ -28,6 +28,13 @@ Program using express to add, remove, modify sql database
 ## Demo Video of the Generator
 <a href = "https://youtu.be/PFhk6bD87po">Demo Video</a>
 
+## Demo Pictures
+
+
+![image](https://user-images.githubusercontent.com/66793863/117508525-5bf49e80-af4e-11eb-8b94-56f7dd76523a.png)
+![image](https://user-images.githubusercontent.com/66793863/117508574-70d13200-af4e-11eb-98b9-f3cf41b873b2.png)
+
+
 ## Credits:
 Made by: Kurtis Jin
 
