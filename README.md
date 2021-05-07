@@ -20,9 +20,10 @@ Program using express to add, remove, modify sql database
  You will need to install node.js, inquirer, mysql, and express.
 
 ## Usage:
-1. Run index.js using node.js from the terminal.
-2. Answer the prompted questions and press Enter
-3. When finished, you will see either readme.md is created or if you already had a readme.md, you will see the overwritten readme.md file. Then, you need to either uploaded to Github or use Gitbash to push it to your repository.
+1. Create databse using workbench
+2. Start mysql2 by logging in.
+3. start the server by running npm start on server.js
+4. use insomnia to test out localhost:3001 as port. 
 
 ## Demo Video of the Generator
 <a href = "https://youtu.be/PFhk6bD87po">Demo Video</a>
